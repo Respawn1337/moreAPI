@@ -1,0 +1,18 @@
+body {
+    background-color: navy;
+    font-family: 'Courier New', Courier, monospace;
+    /* font-display: */
+    color: aliceblue;
+    margin-left: 25px;
+}
+h1 {
+    text-underline-position: below;
+    color: silver;
+    
+}
+p {
+
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: white;
+
+}
